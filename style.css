@@ -1,9 +1,0 @@
-<script>
-        function showModal() {
-            document.getElementById("birthdayModal").style.display = "flex";
-        }
-
-        function closeModal() {
-            document.getElementById("birthdayModal").style.display = "none";
-        }
-    </script>
